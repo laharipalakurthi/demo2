@@ -1,0 +1,7 @@
+C:\Users\91994\source\repos\regexdemo\regexdemo\bin\Debug\regexdemo.exe.config
+C:\Users\91994\source\repos\regexdemo\regexdemo\bin\Debug\regexdemo.exe
+C:\Users\91994\source\repos\regexdemo\regexdemo\bin\Debug\regexdemo.pdb
+C:\Users\91994\source\repos\regexdemo\regexdemo\obj\Debug\regexdemo.csprojAssemblyReference.cache
+C:\Users\91994\source\repos\regexdemo\regexdemo\obj\Debug\regexdemo.csproj.CoreCompileInputs.cache
+C:\Users\91994\source\repos\regexdemo\regexdemo\obj\Debug\regexdemo.exe
+C:\Users\91994\source\repos\regexdemo\regexdemo\obj\Debug\regexdemo.pdb
